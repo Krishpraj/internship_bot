@@ -32,18 +32,13 @@ class RepoSource:
 
 SOURCES = [
     RepoSource(
-        name="simplifyjobs",
-        url="https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README-Off-Season.md",
-        parser="simplifyjobs",
-    ),
-    RepoSource(
         name="canadian",
         url="https://raw.githubusercontent.com/negarprh/Canadian-Tech-Internships-2026/main/README.md",
         parser="canadian",
     ),
     RepoSource(
-        name="pittcsc",
-        url="https://raw.githubusercontent.com/pittcsc/Summer2026-Internships/master/README.md",
-        parser="pittcsc",
+        name="simplifyjobs",
+        url="https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README-Off-Season.md",
+        parser="simplifyjobs",
     ),
 ]

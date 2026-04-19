@@ -10,13 +10,11 @@ log = logging.getLogger(__name__)
 
 SOURCE_COLORS = {
     "simplifyjobs": 0x57F287,  # green
-    "pittcsc": 0xFEE75C,       # yellow
     "canadian": 0xED4245,      # red
 }
 
 SOURCE_LABELS = {
-    "simplifyjobs": "SimplifyJobs (Off-Season)",
-    "pittcsc": "PittCSC",
+    "simplifyjobs": "SimplifyJobs (Off-Season, Canada)",
     "canadian": "Canadian Tech",
 }
 

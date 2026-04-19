@@ -6,15 +6,10 @@ from parsers.base import BaseParser, Internship
 
 class SimplifyJobsParser(BaseParser):
     """
-    Parses SimplifyJobs/Summer2026-Internships README-Off-Season.md
+    Parses SimplifyJobs/Summer2026-Internships README-Off-Season.md.
 
-    Uses HTML <table> with <tr> rows. Each row has:
-    <td><strong><a href="...">Company</a></strong></td>
-    <td>Role</td>
-    <td>Location</td>
-    <td>Terms</td>
-    <td><div align="center"><a href="APPLY_URL">...</a> <a href="SIMPLIFY_URL">...</a></div></td>
-    <td>2d</td>
+    Only emits roles whose Location cell contains "Canada" (the source
+    spans US/Canada/Remote; we want Canada-only).
     """
 
     _TR_RE = re.compile(r"<tr>(.*?)</tr>", re.DOTALL)
@@ -25,7 +20,7 @@ class SimplifyJobsParser(BaseParser):
 
     @staticmethod
     def _strip_html(html: str) -> str:
-        return re.sub(r"<[^>]+>", "", html).strip()
+        return re.sub(r"<[^>]+>", " ", html).strip()
 
     def parse(self, content: str, today: date) -> list[Internship]:
         results: list[Internship] = []
@@ -47,11 +42,9 @@ class SimplifyJobsParser(BaseParser):
                 apply_cell = tds[3]
                 age_cell = tds[4]
 
-            # Skip closed positions
-            if "\U0001f512" in tr_html:  # 🔒
+            if "\U0001f512" in tr_html:  # closed
                 continue
 
-            # Company name
             company_match = self._COMPANY_RE.search(company_cell)
             if company_match:
                 company = company_match.group(1).strip()
@@ -67,15 +60,16 @@ class SimplifyJobsParser(BaseParser):
                     continue
 
             role = self._strip_html(role_cell)
-            location = self._strip_html(location_cell)
+            location = re.sub(r"\s+", " ", self._strip_html(location_cell))
 
-            # Apply URL - take the FIRST <a href> (direct link, not Simplify)
+            if "canada" not in location.lower():
+                continue
+
             apply_match = self._APPLY_RE.search(apply_cell)
             if not apply_match:
                 continue
             apply_url = apply_match.group(1)
 
-            # Age
             age_match = self._AGE_RE.search(age_cell)
             if not age_match:
                 continue

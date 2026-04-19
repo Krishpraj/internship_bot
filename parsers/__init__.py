@@ -1,12 +1,10 @@
 from parsers.base import BaseParser
-from parsers.simplifyjobs import SimplifyJobsParser
-from parsers.pittcsc import PittCSCParser
 from parsers.canadian import CanadianParser
+from parsers.simplifyjobs import SimplifyJobsParser
 
 _PARSERS: dict[str, BaseParser] = {
-    "simplifyjobs": SimplifyJobsParser(),
-    "pittcsc": PittCSCParser(),
     "canadian": CanadianParser(),
+    "simplifyjobs": SimplifyJobsParser(),
 }
 
 
