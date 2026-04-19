@@ -13,8 +13,14 @@ if _env_path.exists():
 
 DISCORD_TOKEN = os.environ.get("DISCORD_TOKEN", "")
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "0"))
-POLL_INTERVAL_MINUTES = int(os.environ.get("POLL_INTERVAL_MINUTES", "30"))
-DB_PATH = os.environ.get("DB_PATH", "seen.db")
+SUPABASE_URL = os.environ.get("SUPABASE_URL") or os.environ.get(
+    "NEXT_PUBLIC_SUPABASE_URL", ""
+)
+SUPABASE_KEY = (
+    os.environ.get("SUPABASE_KEY")
+    or os.environ.get("SUPABASE_SERVICE_ROLE_KEY")
+    or os.environ.get("NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY", "")
+)
 
 
 @dataclass
@@ -25,11 +31,6 @@ class RepoSource:
 
 
 SOURCES = [
-    RepoSource(
-        name="speedyapply",
-        url="https://raw.githubusercontent.com/speedyapply/2026-SWE-College-Jobs/main/README.md",
-        parser="speedyapply",
-    ),
     RepoSource(
         name="simplifyjobs",
         url="https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README-Off-Season.md",

@@ -4,12 +4,13 @@ from datetime import date
 
 import aiohttp
 import discord
-from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
-from config import CHANNEL_ID, DISCORD_TOKEN, POLL_INTERVAL_MINUTES, SOURCES
+import readme
+from config import CHANNEL_ID, DISCORD_TOKEN, SOURCES
 from db import apply_url_exists, get_unsent, init_db, is_seen, mark_seen
 from fetcher import fetch_readme
 from parsers import get_parser
+from parsers.base import Internship
 from poster import post_internships
 
 logging.basicConfig(
@@ -18,20 +19,10 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-intents = discord.Intents.default()
-client = discord.Client(intents=intents)
 
-
-async def poll_cycle() -> None:
+async def poll_cycle(channel: discord.abc.Messageable) -> list[Internship]:
     today = date.today()
-    channel = client.get_channel(CHANNEL_ID)
-    if channel is None:
-        try:
-            channel = await client.fetch_channel(CHANNEL_ID)
-        except Exception:
-            log.exception("Channel %d not found", CHANNEL_ID)
-            return
-
+    all_open: list[Internship] = []
     async with aiohttp.ClientSession() as session:
         for source in SOURCES:
             raw = await fetch_readme(session, source)
@@ -49,14 +40,13 @@ async def poll_cycle() -> None:
             for item in internships:
                 if item.is_closed:
                     continue
+                all_open.append(item)
                 if item.date_posted < today:
                     continue
-                # Per-repo dedup
                 if is_seen(item.uid):
                     continue
-                # Cross-repo dedup by apply URL
                 if apply_url_exists(item.apply_url):
-                    mark_seen(item)  # Track it but don't post
+                    mark_seen(item)
                     continue
                 mark_seen(item)
                 new_ones.append(item)
@@ -68,46 +58,53 @@ async def poll_cycle() -> None:
                 )
             else:
                 log.info("%s: no new internships", source.name)
+    return all_open
 
 
-async def backfill() -> None:
+async def backfill(channel: discord.abc.Messageable) -> None:
     today = date.today()
     unsent = get_unsent(today)
     if not unsent:
         log.info("Backfill: nothing to catch up on")
         return
-
-    channel = client.get_channel(CHANNEL_ID)
-    if channel is None:
-        try:
-            channel = await client.fetch_channel(CHANNEL_ID)
-        except Exception:
-            log.exception("Backfill: channel %d not found", CHANNEL_ID)
-            return
-
     log.info("Backfill: posting %d missed internships", len(unsent))
     await post_internships(channel, unsent)
 
 
-@client.event
-async def on_ready() -> None:
-    log.info("Logged in as %s", client.user)
+async def run_once() -> None:
     init_db()
 
-    await backfill()
+    intents = discord.Intents.default()
+    client = discord.Client(intents=intents)
+    ready = asyncio.Event()
 
-    scheduler = AsyncIOScheduler()
-    scheduler.add_job(
-        poll_cycle, "interval", minutes=POLL_INTERVAL_MINUTES, id="poll"
-    )
-    scheduler.start()
+    @client.event
+    async def on_ready() -> None:
+        log.info("Logged in as %s", client.user)
+        ready.set()
 
-    # Run first poll immediately
-    await poll_cycle()
+    login_task = asyncio.create_task(client.start(DISCORD_TOKEN))
+    try:
+        await asyncio.wait_for(ready.wait(), timeout=30)
+        channel = client.get_channel(CHANNEL_ID) or await client.fetch_channel(
+            CHANNEL_ID
+        )
+        await backfill(channel)
+        all_open = await poll_cycle(channel)
+        if readme.write(all_open):
+            log.info("README updated with %d open roles", len(all_open))
+        else:
+            log.info("README unchanged")
+    finally:
+        await client.close()
+        try:
+            await login_task
+        except Exception:
+            log.exception("Discord client shutdown error")
 
 
 def main() -> None:
-    client.run(DISCORD_TOKEN)
+    asyncio.run(run_once())
 
 
 if __name__ == "__main__":

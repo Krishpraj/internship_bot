@@ -9,14 +9,14 @@ from parsers.base import Internship
 log = logging.getLogger(__name__)
 
 SOURCE_COLORS = {
-    "speedyapply": 0x5865F2,   # blurple
     "simplifyjobs": 0x57F287,  # green
+    "pittcsc": 0xFEE75C,       # yellow
     "canadian": 0xED4245,      # red
 }
 
 SOURCE_LABELS = {
-    "speedyapply": "SpeedyApply (US)",
     "simplifyjobs": "SimplifyJobs (Off-Season)",
+    "pittcsc": "PittCSC",
     "canadian": "Canadian Tech",
 }
 
