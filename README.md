@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-04-21 17:32 UTC — 122 open roles_
+_Last updated: 2026-04-21 18:54 UTC — 121 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -49,7 +49,6 @@ _Last updated: 2026-04-21 17:32 UTC — 122 open roles_
 | TD Bank | Mobile Software Engineer Intern/Co-op | Toronto, ON, Canada | Apr 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer-Intern-Co-op--Fall-2026-_R_1481070?utm_source=Simplify&ref=Simplify) |
 | TD Bank | Direct Investing Journey Intern/Co-Op | Toronto, ON, Canada | Apr 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Direct-Investing-Journey-Intern-Co-Op--Fall-2026-_R_1483970-1?utm_source=Simplify&ref=Simplify) |
 | TD Bank | Data Engineer Intern/Co-op - Fall 2026 | Toronto, ON, Canada | Apr 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Intern-Co-op--Fall-2026-_R_1481067?utm_source=Simplify&ref=Simplify) |
-| TD Bank | Data Analyst Intern/Co-op | Toronto, ON, Canada | Apr 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Analyst-Intern-Co-op--Fall-2026-_R_1481063?utm_source=Simplify&ref=Simplify) |
 | TD Bank | Business System Analyst Intern/Co-op | Toronto, ON, Canada | Apr 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-System-Analyst-Intern-Co-op--Fall-2026-_R_1481052?utm_source=Simplify&ref=Simplify) |
 | RTX | Stage Ingenierie du developpement des systemes de commande / Intern - Development Controls Engineering | Longueuil, QC, Canada | Apr 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Ingenierie-du-dveloppement-des-systemes-de-commande---Internship---Fall-2026---Development-Controls-Engineering_01837595?utm_source=Simplify&ref=Simplify) |
 | OpusClip | AI Product Manager Intern | Vancouver, BC | Apr 14, 2026 | Canadian Tech | [Apply](https://jobs.ashbyhq.com/opusclip/5875cb24-d27e-4f79-bc2d-a664f5f02298/) |
