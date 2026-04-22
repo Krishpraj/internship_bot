@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-04-22 14:57 UTC — 124 open roles_
+_Last updated: 2026-04-22 16:03 UTC — 123 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -25,7 +25,7 @@ _Last updated: 2026-04-22 14:57 UTC — 124 open roles_
 | RBC | Machine Learning Software Engineer Co-op | Toronto, ON | Apr 20, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-8-Months_R-0000168679) |
 | RBC | Machine Learning Software Engineer Co-op | Montreal, QC | Apr 20, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2026-Fall-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-Months---Montreal_R-0000168690) |
 | RBC | Insurance Business and Data Analyst Intern | Mississauga, ON | Apr 20, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026-Insurance--Fall-Business-and-Data-Analyst--4-16-months-_R-0000168616) |
-| TD Bank | P&L Strategy Small Business Banking Deposits Intern/Co-op | Toronto, ON, Canada | Apr 19, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/P-L-Strategy-Small-Business-Banking-Deposits-Intern-Co-op--FALL-2026-_R_1481362?utm_source=Simplify&ref=Simplify) |
+| TD Bank | P&L Strategy Small Business Banking Deposits Intern/Co-op | Toronto, ON, Canada | Apr 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/P-L-Strategy-Small-Business-Banking-Deposits-Intern-Co-op--FALL-2026-_R_1481362?utm_source=Simplify&ref=Simplify) |
 | Manulife Financial | Co-op | Kitchener, ON, Canada | Apr 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Fall-2026-Co-op---Automation-Developer_JR26041117?utm_source=Simplify&ref=Simplify) |
 | Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada | Apr 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210894?utm_source=Simplify&ref=Simplify) |
 | Stryker | Systems R&D Engineer Co-op | Burnaby, BC | Apr 17, 2026 | Canadian Tech | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Burnaby-Canada/Systems-R-D-Engineer-Co-Op_R562620) |
@@ -34,7 +34,6 @@ _Last updated: 2026-04-22 14:57 UTC — 124 open roles_
 | Rakuten Kobo | Data Engineer Co-op | Toronto, ON | Apr 17, 2026 | Canadian Tech | [Apply](https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Toronto-Canada/Data-Engineer-Co-op--8-12-Months-_1032676) |
 | Manulife Financial | Fall 2026 Co-op, Automation Developer | Waterloo, ON | Apr 17, 2026 | Canadian Tech | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Fall-2026-Co-op---Automation-Developer_JR26041117) |
 | Electronic Arts | Software Engineer Intern Fall | Vancouver, BC | Apr 17, 2026 | Canadian Tech | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210894) |
-| RTX | Intern | Mississauga, ON, Canada Longueuil, QC, Canada | Apr 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Fall-2026---Engineering-Product-Integrity-tools-and-process-improvements_01838292?utm_source=Simplify&ref=Simplify) |
 | Primetals Technologies | Software Development & Data Science Analyst Intern | Boisbriand, QC | Apr 16, 2026 | Canadian Tech | [Apply](https://mhicareers.com/job/Boisbriand-Software-Development-&-Data-Science-Analyst-(12-Month-contract) |
 | Pinterest | Software Engineer Intern | Toronto, ON, Canada | Apr 16, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7258004&utm_source=Simplify&ref=Simplify) |
 | Medtronic | Strategic Insights & Analytics Intern | Brampton, ON | Apr 16, 2026 | Canadian Tech | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Brampton-Ontario-Canada/Strategic-Insights---Analytics-Intern_R64431) |
