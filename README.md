@@ -1,10 +1,9 @@
 # Internships
 
-_Last updated: 2026-04-24 12:54 UTC — 142 open roles_
+_Last updated: 2026-04-24 14:27 UTC — 141 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
-| Manulife Financial | Data Science Co-op 🎓 | Toronto, ON, Canada | Apr 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Data-Science-Co-op_JR26040137?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | GAM – Portfolio Solutions Intern | Toronto, ON, Canada | Apr 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-GAM--Fall-Portfolio-Solutions-Intern--8-months-_R-0000167895?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Data Engineer Intern - Grm - 4 Months | Toronto, ON, Canada | Apr 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Engineer-Intern--4-Months-_R-0000168872-1?utm_source=Simplify&ref=Simplify) |
 | Royal Bank of Canada | Data Engineer Intern | Toronto, ON, Canada | Apr 23, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Engineer-Intern--4-Months-_R-0000168872?utm_source=Simplify&ref=Simplify) |
