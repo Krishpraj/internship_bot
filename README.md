@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-04-27 20:37 UTC — 151 open roles_
+_Last updated: 2026-04-27 21:43 UTC — 150 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -56,7 +56,6 @@ _Last updated: 2026-04-27 20:37 UTC — 151 open roles_
 | RBC | CDO, Data Engineer Intern | Toronto, ON | Apr 20, 2026 | Canadian Tech | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---CDO--Data-Engineer-Intern--4-Months-_R-0000168150) |
 | TD Bank | P&L Strategy Small Business Banking Deposits Intern/Co-op | Toronto, ON, Canada | Apr 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/P-L-Strategy-Small-Business-Banking-Deposits-Intern-Co-op--FALL-2026-_R_1481362?utm_source=Simplify&ref=Simplify) |
 | Manulife Financial | Co-op | Kitchener, ON, Canada | Apr 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Fall-2026-Co-op---Automation-Developer_JR26041117?utm_source=Simplify&ref=Simplify) |
-| Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada | Apr 18, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210894?utm_source=Simplify&ref=Simplify) |
 | Stryker | Systems R&D Engineer Co-op | Burnaby, BC | Apr 17, 2026 | Canadian Tech | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Burnaby-Canada/Systems-R-D-Engineer-Co-Op_R562620) |
 | Revvity | Full-Stack AI Developer Intern | Remote, Canada | Apr 17, 2026 | Canadian Tech | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-043504) |
 | Revvity | Full-Stack AI Developer Intern | Remote, Canada | Apr 17, 2026 | Canadian Tech | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044247) |
