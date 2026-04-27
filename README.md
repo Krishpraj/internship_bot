@@ -1,10 +1,12 @@
 # Internships
 
-_Last updated: 2026-04-27 22:38 UTC — 150 open roles_
+_Last updated: 2026-04-27 23:41 UTC — 152 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
+| TD Bank | Wealth Gen AI Product & Enablement Intern/Co-op | Toronto, ON, Canada | Apr 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth---Gen-AI-Product---Enablement-Intern-Co-op--Fall-2026-_R_1486064?utm_source=Simplify&ref=Simplify) |
 | Shopify | Data and Engineering Intern | 5 locations Montreal, QC, Canada Toronto, ON, Canada NYC Bellevue, WA Ottawa, ON, Canada | Apr 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://www.shopify.com/careers/data-and-engineering-internships-fall-2026_9b2afa1b-28fa-4ae4-8f69-80ce64059065?utm_source=Simplify&ref=Simplify) |
+| Royal Bank of Canada | Enterprise Data Management Solutions Intern | Nova Scotia, Canada | Apr 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2026-Fall---CDO--Data-Analyst---Enterprise-Data-Management-Solutions-Intern--4-Months---Bedford--NS-_R-0000169788-1?utm_source=Simplify&ref=Simplify) |
 | Capital One | Data Scientist Intern | Toronto, ON, Canada | Apr 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Fall-2026_R240093-2?utm_source=Simplify&ref=Simplify) |
 | Capital One | Data Analytics Engineering Intern | Toronto, ON, Canada | Apr 27, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering---Fall-2026_R240092-1?utm_source=Simplify&ref=Simplify) |
 | RTX | Intern Proactive Engine Performance Monitoring DPHM - Proactive Engine Performance Monitoring - Proactive DPHM | Longueuil, QC, Canada | Apr 24, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Supervision-proactive-de-la-performance-des-moteurs--DPHM-proactive---Internship-Fall-2026---Proactive-Engine-Performance-Monitoring--Proactive-DPHM_01839489?utm_source=Simplify&ref=Simplify) |
