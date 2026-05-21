@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-21 16:32 UTC — 460 open roles_
+_Last updated: 2026-05-21 18:50 UTC — 459 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -60,7 +60,6 @@ _Last updated: 2026-05-21 16:32 UTC — 460 open roles_
 | General Dynamics UK | Embedded Software Developer / Modeler Co-op | Nepean, ON | May 14, 2026 | Canadian Tech | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000126573686) |
 | Cohere | Machine Learning Intern/Co-op | Canada United Kingdom United States | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application?utm_source=Simplify&ref=Simplify) |
 | Ciena | Hardware Design Co-op | Ottawa, ON | May 14, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Co-Op--Sept-2026---4-months-_R030886) |
-| Ciena | Hardware Design Co-op | Ottawa, ON, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Co-Op--Sept-2026---4-months-_R030886?utm_source=Simplify&ref=Simplify) |
 | Ciena | Embedded Software Development Co-op | Ottawa, ON | May 14, 2026 | Canadian Tech | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Development-Co-op--Fall-2026---4-months-_R030890) |
 | Ciena | Embedded Software Development Co-op | Ottawa, ON, Canada | May 14, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Development-Co-op--Fall-2026---4-months-_R030890?utm_source=Simplify&ref=Simplify) |
 | British Columbia Investment | Risk Reporting & Data Co-op/Internship | Victoria, BC | May 14, 2026 | Canadian Tech | [Apply](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Risk-Reporting---Data-Co-op-Internship--Fall-2026---Winter-2027-_JR101493) |
