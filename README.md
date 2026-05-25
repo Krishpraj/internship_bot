@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-25 18:20 UTC — 456 open roles_
+_Last updated: 2026-05-25 20:05 UTC — 454 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -205,7 +205,6 @@ _Last updated: 2026-05-25 18:20 UTC — 456 open roles_
 | Intel | Firmware Development Engineer Intern | Remote, Canada | May 05, 2026 | Canadian Tech | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Firmware-Development-Engineer_JR0283529) |
 | Intel | Design Methodology Engineer Intern | Remote, Canada | May 05, 2026 | Canadian Tech | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Design-Methodology-Engineering-Intern_JR0283526) |
 | Intel | Design Emulation Engineer Intern | Remote, Canada | May 05, 2026 | Canadian Tech | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Design-Emulation-Engineer_JR0283530) |
-| Intact | Software Developer 1 Intern/Co-op | Toronto, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Software-Developer-I---4-Month-Internship-Co-op--Fall-2026-_R153466?utm_source=Simplify&ref=Simplify) |
 | Intact | Database Software Developer Intern/Co-op | Montreal, QC | May 05, 2026 | Canadian Tech | [Apply](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Database-Software-Developer---4-Month-Internship-Co-op--Fall-2026-_R153119) |
 | Geotab | Vehicle Systems Engineer Intern | Kitchener, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5145632008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Support Engineer Intern | Oakville, ON, Canada | May 05, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5185232008?utm_source=Simplify&ref=Simplify) |
@@ -370,7 +369,6 @@ _Last updated: 2026-05-25 18:20 UTC — 456 open roles_
 | Zip | Software Engineer Intern | Toronto, ON, Canada | Apr 25, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f/application?utm_source=Simplify&ref=Simplify) |
 | RTX | Stage – Projet d’évolution de l’IA / Internship - Multiple Teams | Longueuil, QC, Canada | Apr 25, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analytique-avance--projet-d-volution-de-l-IA---Internship---Fall-2026---Advanced-Analytics--AI-Evolution-Project_01838085?utm_source=Simplify&ref=Simplify) |
 | RTX | Intern Proactive Engine Performance Monitoring DPHM - Proactive Engine Performance Monitoring - Proactive DPHM | Longueuil, QC, Canada | Apr 25, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Supervision-proactive-de-la-performance-des-moteurs--DPHM-proactive---Internship-Fall-2026---Proactive-Engine-Performance-Monitoring--Proactive-DPHM_01839489?utm_source=Simplify&ref=Simplify) |
-| Royal Bank of Canada | Wealth Management – Distribution Product Management Intern | Vancouver, BC, Canada | Apr 25, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/XMLNAME-2026-Wealth-Management--Fall-Distribution-Product-Management-Intern--12-months-_R-0000167778?utm_source=Simplify&ref=Simplify) |
 | Nokia | Support Software Developer Co-op/Intern | Ottawa, ON, Canada | Apr 25, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34551?utm_source=Simplify&ref=Simplify) |
 | Nokia | DSP Firmware Engineering Co-op/Intern | Ottawa, ON, Canada | Apr 25, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226?utm_source=Simplify&ref=Simplify) |
 | Nokia | Data Science Co-op/Intern | Ottawa, ON, Canada | Apr 25, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327?utm_source=Simplify&ref=Simplify) |
