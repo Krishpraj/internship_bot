@@ -1,6 +1,6 @@
 # Internships
 
-_Last updated: 2026-05-25 22:50 UTC — 454 open roles_
+_Last updated: 2026-05-25 23:54 UTC — 453 open roles_
 
 | Company | Role | Location | Posted | Source | Apply |
 | --- | --- | --- | --- | --- | --- |
@@ -240,7 +240,6 @@ _Last updated: 2026-05-25 22:50 UTC — 454 open roles_
 | Intact | Data Engineering Developer Intern/Co-op | Montreal, QC | May 04, 2026 | Canadian Tech | [Apply](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Engineering-Developer---4-month-Internship-Co-op--Fall-2026--_R153117) |
 | Intact | AI Developer Intern/Co-op | Montreal, QC | May 04, 2026 | Canadian Tech | [Apply](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/AI-Developer-I---4-months-Internship-Coop--Fall-2026-_R153333) |
 | Geotab | Vehicle Systems Engineer Intern | Waterloo, ON | May 04, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5145632008) |
-| Geotab | Vehicle Systems Engineer Intern | Kitchener, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5145632008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Support Engineer Intern | Oakville, ON | May 04, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5185232008) |
 | Geotab | Support Engineer Intern | Oakville, ON, Canada | May 04, 2026 | SimplifyJobs (Off-Season, Canada) | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5185232008?utm_source=Simplify&ref=Simplify) |
 | Geotab | Software Developer Intern, Prism | Toronto, ON / Waterloo, ON | May 04, 2026 | Canadian Tech | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5138225008) |
